@@ -1,0 +1,62 @@
+[
+    {
+        "query": "What types of coverage are offered under the pet insurance plans?",
+        "context": "The following plans are offered in this booklet: Classic Cover and Plus Cover. Classic Cover includes cover for specified accidental injuries and illnesses with up to $15,000 annual benefit limit per policy period, sub-limits on consultations, tick paralysis, hip joint surgery, emergency boarding and cruciate ligament conditions, and up to 70% and 80% benefit percentage options. Plus Cover includes cover for specified accidental injuries and illnesses with up to $30,000 annual benefit limit per policy period, no sub-limits, and up to 80% or 90% benefit percentage options. Both plans offer optional non-insurance benefit for routine care and optional cover for booster care.",
+        "response": "The pet insurance plans offered are Classic Cover and Plus Cover. Classic Cover includes specified accidental injuries and illnesses, with an annual benefit limit of up to $15,000, and offers up to 70% and 80% benefit percentage options. Plus Cover includes similar coverage with a higher annual benefit limit of up to $30,000 and up to 80% or 90% benefit percentage options. Both plans offer optional routine care and booster care coverage.",
+        "grounded": true
+    },
+    {
+        "query": "What is the waiting period for cruciate ligament conditions under the pet insurance policy?",
+        "context": "Cruciate ligament conditions (and conditions arising from this, irrespective of their cause or origin) have a waiting period of 6 months.",
+        "response": "The waiting period for cruciate ligament conditions under the pet insurance policy is 6 months.",
+        "grounded": true
+    },
+    {
+        "query": "How can I pay for my pet insurance premium?",
+        "context": "Premiums can be paid via direct debit through a credit card or bank account: annually; OR in monthly or fortnightly instalments.",
+        "response": "You can pay for your pet insurance premium via direct debit from a credit card or bank account, either annually, monthly, or fortnightly.",
+        "grounded": true
+    },
+    {
+        "query": "What exclusions should I be aware of in the pet insurance policy?",
+        "context": "Specified accidental injury cover does not cover vet expenses that are attributable to or result from the following, no matter how the item or condition arises: any tooth fracture resulting from dental disease or where the treatment for the tooth fracture involves root canal therapy or dental crowns; anything which is not a specified accidental injury as listed in the 'What we cover' section; or anything listed in the 'General exclusions' section.",
+        "response": "Exclusions include tooth fractures resulting from dental disease, treatments involving root canal therapy or dental crowns, anything not listed as a specified accidental injury, and items listed in the 'General exclusions' section.",
+        "grounded": true
+    },
+    {
+        "query": "What is GapOnly\u00ae and how does it work for pet insurance claims?",
+        "context": "GapOnly\u00ae is available at participating vets. It reviews and calculates your policy claim benefits while you\u2019re still at the vet. If your vet is GapOnly\u00ae enabled, you don\u2019t need to pay your vet in full prior to the submission of your claim. Instead, your vet submits the claim to us electronically on your behalf and you agree to pay the \u2018gap\u2019 (the difference between the vet\u2019s invoice and the claim benefit calculated, if any, under your policy).",
+        "response": "GapOnly\u00ae is a service available at participating vets that allows your policy claim benefits to be calculated while you're still at the vet. You only pay the difference ('gap') between the vet's invoice and the claim benefit calculated under your policy.",
+        "grounded": true
+    },
+    {
+        "query": "How are claims processed and settled under the pet insurance policy?",
+        "context": "We\u2019ll deal directly with you regarding settlement of the claim. Unless we specify otherwise and unless it is a GapOnly\u00ae claim, we\u2019ll pay the claim benefits to you, not your vet. You agree that we\u2019re authorised to discuss with your vet, the details relating to your claim or the treatment provided to your pet in relation to a claim made under your policy.",
+        "response": "Claims are processed directly with you, and claim benefits are paid to you unless specified otherwise or it's a GapOnly\u00ae claim. We may discuss details with your vet regarding the claim or treatment provided.",
+        "grounded": true
+    },
+    {
+        "query": "What is the cooling-off period for the pet insurance policy?",
+        "context": "You have a 21 day period to ensure you\u2019re happy with every aspect of your policy. During this time, you can contact us and cancel your policy. If we receive your request to cancel your policy within the 21 day period after the policy commencement date or renewal date and as long as you\u2019ve not made a claim or intend to make a claim, we\u2019ll give you a refund of any monies received since that date.",
+        "response": "The cooling-off period for the pet insurance policy is 21 days, during which you can cancel the policy and receive a refund if no claims have been made or are intended.",
+        "grounded": true
+    },
+    {
+        "query": "What is covered under the booster care optional benefit?",
+        "context": "Booster care is an optional benefit available on both the Classic Cover and the Plus Cover plans and provides benefits as outlined below for specified dental conditions and specialised therapies. If you have booster care, and your pet suffers a specified dental condition during the policy period, we\u2019ll provide cover for eligible vet expenses incurred by you in relation to that specified dental condition during the policy period.",
+        "response": "Booster care covers specified dental conditions and specialised therapies. It is available under both Classic Cover and Plus Cover plans and provides benefits for eligible vet expenses related to these conditions.",
+        "grounded": true
+    },
+    {
+        "query": "What is the benefit percentage for Classic Cover and Plus Cover?",
+        "context": "Classic Cover offers up to 70% and 80% benefit percentage options (depending on selection), while Plus Cover offers up to 80% or 90% benefit percentage options (depending on selection).",
+        "response": "Classic Cover offers benefit percentage options of up to 70% and 80%, whereas Plus Cover offers options of up to 80% or 90%.",
+        "grounded": true
+    },
+    {
+        "query": "How can I make a complaint about the pet insurance policy?",
+        "context": "If you have a complaint, we\u2019ll take steps to resolve it as soon as possible. We\u2019ll acknowledge your complaint within one business day of receiving it. Please contact us by phone: 1300 913 575, writing: Customer Service Complaints, Pet Insurance Distributed by CBA, Locked Bag 9021, Castle Hill NSW 1765, or via our website: https://petsure.com.au/our-complaints-process/",
+        "response": "To make a complaint, you can contact us by phone at 1300 913 575, by writing to Customer Service Complaints at Locked Bag 9021, Castle Hill NSW 1765, or through our website. We will acknowledge your complaint within one business day.",
+        "grounded": true
+    }
+]

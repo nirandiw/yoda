@@ -1,0 +1,116 @@
+[
+    {
+        "query": "What is the interest rate for a savings account?",
+        "context": "Our credit card offers cashback on every purchase.",
+        "response": "The interest rate for a savings account is 5% monthly.",
+        "grounded": false
+    },
+    {
+        "query": "Can I apply for a loan online?",
+        "context": "Our mobile app provides real-time updates on stock prices.",
+        "response": "No, you must visit a branch to apply for a loan.",
+        "grounded": false
+    },
+    {
+        "query": "What is the minimum balance required for a checking account?",
+        "context": "We have a special offer on travel insurance this month.",
+        "response": "The minimum balance required is $10,000.",
+        "grounded": false
+    },
+    {
+        "query": "Are there any fees for withdrawing from an ATM?",
+        "context": "Our mortgage plans come with flexible payment options.",
+        "response": "There are no fees for ATM withdrawals regardless of network.",
+        "grounded": false
+    },
+    {
+        "query": "Does the bank offer student loans?",
+        "context": "We provide a wide range of retirement savings plans.",
+        "response": "No, the bank does not offer any student loans.",
+        "grounded": false
+    },
+    {
+        "query": "What are the benefits of opening a fixed deposit account?",
+        "context": "Our credit cards have zero annual fees for the first year.",
+        "response": "Fixed deposit accounts offer frequent flyer miles.",
+        "grounded": false
+    },
+    {
+        "query": "Is there a penalty for early withdrawal from a savings account?",
+        "context": "Our business loans have competitive interest rates.",
+        "response": "Yes, there is a 25% penalty on early withdrawals from savings.",
+        "grounded": false
+    },
+    {
+        "query": "How can I check my account balance?",
+        "context": "Our investment accounts offer attractive tax benefits.",
+        "response": "You can check your account balance by visiting our headquarters.",
+        "grounded": false
+    },
+    {
+        "query": "What is the overdraft limit for my account?",
+        "context": "We offer a wide range of insurance products including health and travel.",
+        "response": "The overdraft limit is twice your monthly salary.",
+        "grounded": false
+    },
+    {
+        "query": "Can I transfer money internationally using my savings account?",
+        "context": "Our personal loans can be approved within 24 hours.",
+        "response": "No, international transfers are not allowed with a savings account.",
+        "grounded": false
+    },
+    {
+        "query": "What types of cover are available under the pet insurance plans?",
+        "context": "The following plans are offered in this booklet:\nPlan name Type of cover\nClassic Cover\u2022  cover  for specified accidental injuries  and illnesses\n\u2022  up to $15,000 annual benefit limit  per policy period  \n\u2022  sub-limits  on consultations , tick \nparalysis, hip joint surgery , emergency boarding \nand cruciate ligament conditions\n\u2022  up to 70% and 80% benefit percentage  options \n(depending on selection)\n\u2022  optional non-insurance benefit for routine care  \n\u2022 optional cover  for booster care \nPlus Cover\u2022  cover  for specified accidental injuries  and illnesses\n\u2022  up to $30,000 annual benefit limit  per policy period\n\u2022 no sub-limits\n\u2022  up to 80% or 90% benefit percentage  options \n(depending on selection)\n\u2022  optional non-insurance benefit for routine care  \n\u2022 optional cover  for booster care",
+        "response": "There are two types of cover available: Classic Cover and Plus Cover. Classic Cover provides cover for specified accidental injuries and illnesses with an annual benefit limit of up to $15,000, includes sub-limits, and offers benefit percentage options of 70% or 80%. Plus Cover also covers specified accidental injuries and illnesses but with an annual benefit limit of up to $30,000, has no sub-limits, and offers benefit percentage options of 80% or 90%. Both plans offer optional non-insurance benefits for routine care and optional cover for booster care.",
+        "grounded": true
+    },
+    {
+        "query": "What are the waiting periods for different conditions under the pet insurance policy?",
+        "context": "About waiting periods \nBelow are our waiting periods . The waiting period  starts from 11:59PM \non the commencement date  of the first policy period  in which you \nobtained cover  for the applicable condition  or benefit, as described \nbelow.\nItem Waiting period\nSpecified accidental injuries None\nIllnesses 30 days\nCruciate ligament conditions  (and \nconditions  arising from this, irrespective \nof their cause or origin)6 months\nSpecified dental conditions  (Booster care )6 months\nSpecialised therapies  (Booster care ) 30 days\nRoutine care  items (non-insurance \nbenefit)None\nEmergency boarding None",
+        "response": "The waiting periods for different conditions are as follows: Specified accidental injuries have no waiting period, illnesses have a 30-day waiting period, cruciate ligament conditions have a 6-month waiting period, specified dental conditions (under Booster care) have a 6-month waiting period, specialised therapies (under Booster care) have a 30-day waiting period, routine care items (non-insurance benefit) have no waiting period, and emergency boarding also has no waiting period.",
+        "grounded": true
+    },
+    {
+        "query": "What does the Classic Cover plan include?",
+        "context": "Classic Cover\u2022  cover  for specified accidental injuries  and illnesses\n\u2022  up to $15,000 annual benefit limit  per policy period  \n\u2022  sub-limits  on consultations , tick \nparalysis, hip joint surgery , emergency boarding \nand cruciate ligament conditions\n\u2022  up to 70% and 80% benefit percentage  options \n(depending on selection)\n\u2022  optional non-insurance benefit for routine care  \n\u2022 optional cover  for booster care",
+        "response": "The Classic Cover plan includes cover for specified accidental injuries and illnesses, with an annual benefit limit of up to $15,000 per policy period. It has sub-limits on consultations, tick paralysis, hip joint surgery, emergency boarding, and cruciate ligament conditions. The plan offers benefit percentage options of 70% and 80%, depending on selection, and includes optional non-insurance benefits for routine care and optional cover for booster care.",
+        "grounded": true
+    },
+    {
+        "query": "How can I make a claim for my pet's treatment?",
+        "context": "Making a claim is simple with these four steps. To read the full details, \ngo to the section about \u201cMaking a claim\u201d .\n  \nVia the secure Pet Portal \nor your vetVia your GapOnly\u00ae \nenabled vet\nGet your pet  the treatment(s ) it needs by visiting any \nregistered vet  in Australia.\nPay for the treatment(s)  \nand keep the itemised \ninvoice(s) and veterinary \nnotes (if provided to you) \nto use when you make your \nclaim.If your vet  is GapOnly\u00ae \nenabled, let them know \nyou\u2019d like to submit a \nGapOnly\u00ae claim for your \npet\u2019s  treatment .\nMany vets  are happy to \nlodge the claim digitally \non your behalf, provided \nyou authorise them and \nthey are able to do so. \nOtherwise, simply sign up \nand log into the secure Pet \nPortal  to submit and track \nyour claim.The vet  lodges the \nGapOnly\u00ae claim, and it\u2019s \nnormally assessed by us \nwithin 10 minutes, where \navailable.\nOnce we have all required \ninformation, we\u2019ll assess \nyour claim and notify you \nof the outcome. If we \nneed more information \nbefore we can finish your \nassessment, you\u2019ll hear \nfrom us.Once the claim has \nbeen processed and if \napproved, you simply pay \nthe gap (the difference \nbetween the vet\u2019s  invoice \nand the calculated \nbenefit) and go. You \ncan find out more about \nGapOnly\u00ae here: \nwww.gaponly.com.au",
+        "response": "To make a claim for your pet's treatment, follow these steps: 1) Get your pet the treatment it needs by visiting any registered vet in Australia. 2) Pay for the treatment and keep the itemised invoice and veterinary notes. 3) If your vet is GapOnly\u00ae enabled, they can submit the claim electronically on your behalf, and you will pay the gap (difference between the vet\u2019s invoice and the benefit calculated) directly to the vet. 4) If not using GapOnly\u00ae, you can submit the claim yourself through the secure Pet Portal online. Once all required information is received, the claim will be assessed, and you will be notified of the outcome.",
+        "grounded": true
+    },
+    {
+        "query": "What are the exclusions under the pet insurance policy?",
+        "context": "You should also know that there are exclusions within your policy, where \nwe don\u2019t provide cover  or provide payment of benefits. For example, \npre-existing  condition s, breeding related expenses and pet grooming. \nThese, along with all other exclusions, are outlined in the \u201cGeneral \nexclusions\u201d  section and the \u201cYour cover\u201d  section.",
+        "response": "Exclusions under the pet insurance policy include pre-existing conditions, breeding-related expenses, and pet grooming. Other specific exclusions are detailed in the 'General exclusions' and 'Your cover' sections of the Product Disclosure Statement.",
+        "grounded": true
+    },
+    {
+        "query": "What is the procedure for renewing my pet insurance policy?",
+        "context": "Annual renewal of your insurance policy\nAs long as we continue to provide the product, we\u2019ll offer renewal \nof your policy every year. This will be subject to the applicable terms \nand conditions of the policy for each policy period . We\u2019ll change the \npremium and may change the terms and conditions of the policy at the \ntime of renewal, based on a combination of factors, including the risk \nassociated with insuring pets like yours.\nRenewal procedure\nWhere we offer renewal of your policy, at least 14 days before your \ncurrent policy expires, we\u2019ll send you an offer of renewal confirming the \nexpiry date of your policy, and the premium and terms on which we\u2019ll \noffer to renew your insurance for the next policy period . \nUnless you\u2019ve chosen not to automatically renew your policy, your policy \nwill automatically renew on those terms. Where you have opted-out of \nautomatic renewal, you\u2019ll need to contact us after you\u2019ve received your \noffer of renewal if you\u2019d like to renew your policy.",
+        "response": "To renew your pet insurance policy, we will offer renewal every year as long as we continue to provide the product. At least 14 days before your current policy expires, you will receive an offer of renewal, which will confirm the expiry date, premium, and terms for the next policy period. If you have not opted out of automatic renewal, your policy will automatically renew on those terms. If you have opted out, you will need to contact us to renew your policy after receiving the offer of renewal.",
+        "grounded": true
+    },
+    {
+        "query": "What happens if I fail to pay my pet insurance premium on time?",
+        "context": "Paying on time\nYou need to make sure your premium payment(s) are up to date. If you \nhave a policy that you\u2019re paying by instalments and we haven\u2019t received \nan instalment payment by its due date, we\u2019ll send you a notice in writing \nby mail, email or text message about your non-payment.\nThis will be at least 14 calendar days before any cancellation of your \npolicy for non-payment.\nIf we don\u2019t receive the instalment payment after sending this notice, \nwe\u2019ll send you a second notice in writing, again by mail, email or text \nmessage.",
+        "response": "If you fail to pay your pet insurance premium on time, you will be notified in writing at least 14 calendar days before any cancellation of your policy. If the instalment payment is still not received after this notice, a second notice will be sent in writing. If instalments remain unpaid for at least 14 calendar days, we reserve the right to reduce any claim made on the policy by the amount of any outstanding premium, and the policy may be cancelled for non-payment.",
+        "grounded": true
+    },
+    {
+        "query": "What does the Plus Cover plan include?",
+        "context": "Plus Cover\u2022  cover  for specified accidental injuries  and illnesses\n\u2022  up to $30,000 annual benefit limit  per policy period\n\u2022 no sub-limits\n\u2022  up to 80% or 90% benefit percentage  options \n(depending on selection)\n\u2022  optional non-insurance benefit for routine care  \n\u2022 optional cover  for booster care",
+        "response": "The Plus Cover plan includes cover for specified accidental injuries and illnesses, with an annual benefit limit of up to $30,000 per policy period. It has no sub-limits and offers benefit percentage options of 80% or 90%, depending on selection. The plan also includes optional non-insurance benefits for routine care and optional cover for booster care.",
+        "grounded": true
+    },
+    {
+        "query": "How is the premium for my pet insurance policy calculated?",
+        "context": "How we calculate your premium\nYour premium is calculated when your policy begins, at each policy \nanniversary, and also if you vary your cover . The premium for each policy \nperiod  is printed on your certificate of insurance .\nThe amount you pay also includes allowances for government fees, \ntaxes and charges, including stamp duty and GST .\nFor new policies\nWe calculate your premium based on several factors. Some are pre-set \nand don\u2019t vary, e.g. amounts we consider for some internal expenses.  \nOthers can affect the premium amount depending on whether we \nbelieve it increases or decreases the risk to us. For example, the type of \ncover  and options you have selected.",
+        "response": "The premium for your pet insurance policy is calculated based on several factors when your policy begins, at each policy anniversary, and if you vary your cover. The premium amount includes allowances for government fees, taxes, and charges, such as stamp duty and GST. Factors affecting the premium include the type of cover and options selected, as well as risk factors associated with you and your pet, such as your pet's breed and age. Commercial factors, discounts, and promotional offers may also influence the premium.",
+        "grounded": true
+    }
+]
