@@ -26,6 +26,14 @@ The chatbot provides information on **retail banking products** (e.g., credit ca
 4. **Synthetic Test Cases**  
    Includes scripts for generating test cases to validate both grounded and ungrounded responses.
 
+## Usage
+
+### 1. Binary Grounding Evaluation
+Run the binary grounding evaluation with predefined context and response:
+```bash
+python yoda_ootb.py
+
+
 ---
 
 ## Repository Structure
