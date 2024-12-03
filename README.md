@@ -28,11 +28,7 @@ The chatbot provides information on **retail banking products** (e.g., credit ca
 
 ## Usage
 
-### 1. Binary Grounding Evaluation
-Run the binary grounding evaluation with predefined context and response:
-```bash
-python yoda_ootb.py
-
+To be added
 
 ---
 
