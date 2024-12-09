@@ -27,9 +27,26 @@ The chatbot provides information on **retail banking products** (e.g., credit ca
    Includes scripts for generating test cases to validate both grounded and ungrounded responses.
 
 ## Usage
+Install the necessary libs
+```
+pip install -r requirements.txt
+```
 
-To be added
+Call the function. 
+```
+import guardrail_groundedness from yoda_custom.py
+from auth import get_openai_client
 
+client = get_openai_client()
+choices = guardrail_groundedness(context_text,query, response_text, client )
+logger.info(f"Grounding information {choices[0].message.content.strip('`json')}")
+response_json = choices[0].message.content.strip('`json')
+response_data = json.loads(response_json)
+for item in response_data:
+   groundedness = is_sentence_grounded(item)
+   logger.info(f" Sentence: {item['sentence']}... Grounded??: {groundedness}")
+
+```
 ---
 
 ## Repository Structure
